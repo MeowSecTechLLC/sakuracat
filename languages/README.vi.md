@@ -1,8 +1,8 @@
 <div align="center">
 
-<p><a href="README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <strong>Tiếng Việt</strong></p>
+<p><a href="../README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <strong>Tiếng Việt</strong></p>
 
-<img src="sakuracat-header.svg" alt="SakuraCat · Danh mục địa chỉ chính thức" width="100%" />
+<img src="../sakuracat-header.svg" alt="SakuraCat · Danh mục địa chỉ chính thức" width="100%" />
 
 <h1>Địa chỉ chính thức của SakuraCat</h1>
 
@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>Trung tâm người dùng ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="downloads/README.vi.md"><strong>Tải ứng dụng chính thức</strong></a>
+  <a href="../downloads/README.vi.md"><strong>Tải ứng dụng chính thức</strong></a>
 </p>
 
 <p><sub>73 tên miền chính thức &nbsp; / &nbsp; Cập nhật lần cuối: 2026-10-12</sub></p>

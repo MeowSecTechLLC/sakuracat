@@ -1,8 +1,8 @@
 <div align="center">
 
-<p><a href="README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <strong>한국어</strong> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
+<p><a href="../README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <strong>한국어</strong> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
 
-<img src="sakuracat-header.svg" alt="SakuraCat · 공식 주소 목록" width="100%" />
+<img src="../sakuracat-header.svg" alt="SakuraCat · 공식 주소 목록" width="100%" />
 
 <h1>SakuraCat 공식 주소</h1>
 
@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>사용자 센터 ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="downloads/README.ko.md"><strong>공식 클라이언트 다운로드</strong></a>
+  <a href="../downloads/README.ko.md"><strong>공식 클라이언트 다운로드</strong></a>
 </p>
 
 <p><sub>공식 도메인 73개 &nbsp; / &nbsp; 마지막 업데이트: 2026-10-12</sub></p>
