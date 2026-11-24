@@ -1,8 +1,8 @@
 <div align="center">
 
-<p><a href="README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <strong>English</strong> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
+<p><a href="../README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <strong>English</strong> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
 
-<img src="sakuracat-header.svg" alt="SakuraCat · Official Address Directory" width="100%" />
+<img src="../sakuracat-header.svg" alt="SakuraCat · Official Address Directory" width="100%" />
 
 <h1>SakuraCat Official Addresses</h1>
 
@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>User Center ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="downloads/README.en.md"><strong>Official downloads</strong></a>
+  <a href="../downloads/README.en.md"><strong>Official downloads</strong></a>
 </p>
 
 <p><sub>73 official domains &nbsp; / &nbsp; Last updated: 2026-10-12</sub></p>
