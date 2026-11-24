@@ -1,8 +1,8 @@
 <div align="center">
 
-<p><a href="README.md">简体中文</a> &nbsp; · &nbsp; <strong>繁體中文</strong> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
+<p><a href="../README.md">简体中文</a> &nbsp; · &nbsp; <strong>繁體中文</strong> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="README.ja.md">日本語</a> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
 
-<img src="sakuracat-header.svg" alt="SakuraCat · 官方網址清單" width="100%" />
+<img src="../sakuracat-header.svg" alt="SakuraCat · 官方網址清單" width="100%" />
 
 <h1>SakuraCat 官方網址</h1>
 
@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>使用者中心 ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="downloads/README.zh-TW.md"><strong>官方用戶端下載</strong></a>
+  <a href="../downloads/README.zh-TW.md"><strong>官方用戶端下載</strong></a>
 </p>
 
 <p><sub>73 個官方網域 &nbsp; / &nbsp; 最後更新：2026-10-12</sub></p>
