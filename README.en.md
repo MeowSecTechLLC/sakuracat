@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>User Center ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="DOWNLOADS.en.md"><strong>Official downloads</strong></a>
+  <a href="downloads/README.en.md"><strong>Official downloads</strong></a>
 </p>
 
 <p><sub>73 official domains &nbsp; / &nbsp; Last updated: 2026-10-12</sub></p>

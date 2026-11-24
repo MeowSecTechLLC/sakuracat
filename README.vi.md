@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>Trung tâm người dùng ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="DOWNLOADS.vi.md"><strong>Tải ứng dụng chính thức</strong></a>
+  <a href="downloads/README.vi.md"><strong>Tải ứng dụng chính thức</strong></a>
 </p>
 
 <p><sub>73 tên miền chính thức &nbsp; / &nbsp; Cập nhật lần cuối: 2026-10-12</sub></p>
