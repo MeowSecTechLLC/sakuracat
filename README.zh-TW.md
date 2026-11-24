@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>使用者中心 ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="DOWNLOADS.md"><strong>官方用戶端下載</strong></a>
+  <a href="DOWNLOADS.zh-TW.md"><strong>官方用戶端下載</strong></a>
 </p>
 
 <p><sub>73 個官方網域 &nbsp; / &nbsp; 最後更新：2026-10-12</sub></p>

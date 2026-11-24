@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>ユーザーセンター ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="DOWNLOADS.md"><strong>公式クライアントをダウンロード</strong></a>
+  <a href="DOWNLOADS.ja.md"><strong>公式クライアントをダウンロード</strong></a>
 </p>
 
 <p><sub>公式ドメイン 73 件 &nbsp; / &nbsp; 最終更新日：2026-10-12</sub></p>

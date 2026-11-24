@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>사용자 센터 ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="DOWNLOADS.md"><strong>공식 클라이언트 다운로드</strong></a>
+  <a href="DOWNLOADS.ko.md"><strong>공식 클라이언트 다운로드</strong></a>
 </p>
 
 <p><sub>공식 도메인 73개 &nbsp; / &nbsp; 마지막 업데이트: 2026-10-12</sub></p>
