@@ -1,4 +1,4 @@
-<p align="center"><img src="sakuracat-downloads-banner.png" alt="SakuraCat" width="840"></p>
+<p align="center"><img src="../sakuracat-header.svg" alt="SakuraCat" width="840"></p>
 
 <h1 align="center">SakuraCat official downloads</h1>
 
@@ -6,24 +6,23 @@
 
 <p align="center"><strong>v2.4.6</strong> · Windows, macOS, Android, Linux</p>
 
-<p align="center"><a href="https://sakuracat.com/en/download">Latest downloads and setup</a> · <a href="https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6">GitHub v2.4.6 release</a></p>
+<p align="center"><a href="https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6">GitHub v2.4.6 release</a></p>
 
 | Platform | Download |
 | --- | --- |
-| **Windows** | **[Download EXE](https://file.cat-cdn.com/2.4.6/com.sakuracat.app-2.4.6-windows-setup.exe)** · [Download from GitHub](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-windows-setup.exe) |
-| **macOS**<br><sub>Apple silicon and Intel</sub> | **[Download DMG](https://file.cat-cdn.com/2.4.6/com.sakuracat.app-2.4.6-macos-universal.dmg)** · [Download from GitHub](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-macos-universal.dmg) |
-| **Android / Android TV** | **[Download APK](https://file.cat-cdn.com/2.4.6/com.sakuracat.app-2.4.6-android.apk)** · [Download from GitHub](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-android.apk) |
-| **iOS / iPadOS** | **[Download on the U.S. App Store](https://apps.apple.com/us/app/sakuracat-vpn/id6810595039)** |
-| **Linux**<br><sub>x86_64</sub> | **[Download AppImage](https://file.cat-cdn.com/2.4.6/com.sakuracat.app-2.4.6-linux-amd64.AppImage)** · [Download from GitHub](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-linux-amd64.AppImage) |
+| **Windows** | **[Download EXE](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-windows-setup.exe)** |
+| **macOS**<br><sub>Apple silicon and Intel</sub> | **[Download DMG](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-macos-universal.dmg)** |
+| **Android / Android TV** | **[Download APK](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-android.apk)** |
+| **iOS / iPadOS** | [App Store link in the release notes](https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6) |
+| **Linux**<br><sub>x86_64</sub> | **[Download AppImage](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-linux-amd64.AppImage)** |
 
 <details>
-<summary><strong>Official pages, setup guides, and OneOK mirrors</strong></summary>
+<summary><strong>Setup guides</strong></summary>
 
-- **Windows** · [Official page](https://sakuracat.com/en/download#client-windows) · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=windows-sakuracat-gr5ktq) · [OneOK mirror](https://file.oneok.cloud/?dl=13dfbf4dde40f18ba202915a28ff295a)
-- **macOS** · [Official page](https://sakuracat.com/en/download#client-macos) · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=macos-sakuracat-1jvbny4) · [OneOK mirror](https://file.oneok.cloud/?dl=498c6346580c21e4eedf292c327d72b2)
-- **Android / Android TV** · [Official page](https://sakuracat.com/en/download#client-android) · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=sakuracat-4l7pkv) · [OneOK mirror](https://file.oneok.cloud/?dl=28bc079b6e5bbd70dca655a4ceded309)
-- **iOS / iPadOS** · [Official page](https://sakuracat.com/en/download#client-ios)
-- **Linux** · [Official page](https://sakuracat.com/en/download#client-linux) · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=linux-sakuracat-ec3ieu) · [OneOK mirror](https://file.oneok.cloud/?dl=e9c5837d28eabb0446778aab99613ca6)
+- **Windows** · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=windows-sakuracat-gr5ktq)
+- **macOS** · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=macos-sakuracat-1jvbny4)
+- **Android / Android TV** · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=sakuracat-4l7pkv)
+- **Linux** · [Setup guide (Chinese)](https://help.sakuracat.com/help.html?locale=zh-CN#article=linux-sakuracat-ec3ieu)
 
 </details>
 
