@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>用户中心 ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="DOWNLOADS.md"><strong>官方客户端下载</strong></a>
+  <a href="downloads/README.md"><strong>官方客户端下载</strong></a>
 </p>
 
 <p><sub>73 个官方域名 &nbsp; / &nbsp; 最后更新：2026-10-12</sub></p>
