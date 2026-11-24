@@ -1,8 +1,8 @@
 <div align="center">
 
-<p><a href="README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <strong>日本語</strong> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
+<p><a href="../README.md">简体中文</a> &nbsp; · &nbsp; <a href="README.zh-TW.md">繁體中文</a> &nbsp; · &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <strong>日本語</strong> &nbsp; · &nbsp; <a href="README.ko.md">한국어</a> &nbsp; · &nbsp; <a href="README.vi.md">Tiếng Việt</a></p>
 
-<img src="sakuracat-header.svg" alt="SakuraCat · 公式アドレス一覧" width="100%" />
+<img src="../sakuracat-header.svg" alt="SakuraCat · 公式アドレス一覧" width="100%" />
 
 <h1>SakuraCat 公式アドレス</h1>
 
@@ -13,7 +13,7 @@
   &nbsp; · &nbsp;
   <a href="https://sakuracat.link/"><strong>ユーザーセンター ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="downloads/README.ja.md"><strong>公式クライアントをダウンロード</strong></a>
+  <a href="../downloads/README.ja.md"><strong>公式クライアントをダウンロード</strong></a>
 </p>
 
 <p><sub>公式ドメイン 73 件 &nbsp; / &nbsp; 最終更新日：2026-10-12</sub></p>
