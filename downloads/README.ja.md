@@ -4,17 +4,17 @@
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.vi.md">Tiếng Việt</a></p>
 
-<p align="center"><strong>v2.4.6</strong> · Windows、macOS、Android、Linux</p>
+<p align="center"><strong>v2.4.8</strong> · Windows、macOS、Android、Linux</p>
 
-<p align="center"><a href="https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6">GitHub v2.4.6 リリース</a></p>
+<p align="center"><a href="https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.8">GitHub v2.4.8 リリース</a></p>
 
 | プラットフォーム | ダウンロード |
 | --- | --- |
-| **Windows** | **[EXE をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-windows-setup.exe)** |
-| **macOS**<br><sub>Apple シリコン・Intel</sub> | **[DMG をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-macos-universal.dmg)** |
-| **Android / Android TV** | **[APK をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-android.apk)** |
-| **iOS / iPadOS** | [リリースノートの App Store リンク](https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6) |
-| **Linux**<br><sub>x86_64</sub> | **[AppImage をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-linux-amd64.AppImage)** |
+| **Windows** | **[EXE をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-windows-setup.exe)** |
+| **macOS**<br><sub>Apple シリコン・Intel</sub> | **[DMG をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-macos-universal.dmg)** |
+| **Android / Android TV** | **[APK をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-android.apk)** |
+| **iOS / iPadOS** | [リリースノートの App Store リンク](https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.8) |
+| **Linux**<br><sub>x86_64</sub> | **[AppImage をダウンロード](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-linux-amd64.AppImage)** |
 
 <details>
 <summary><strong>インストールガイド</strong></summary>

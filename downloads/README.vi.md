@@ -4,17 +4,17 @@
 
 <p align="center"><a href="README.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <strong>Tiếng Việt</strong></p>
 
-<p align="center"><strong>v2.4.6</strong> · Windows, macOS, Android, Linux</p>
+<p align="center"><strong>v2.4.8</strong> · Windows, macOS, Android, Linux</p>
 
-<p align="center"><a href="https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6">Bản phát hành v2.4.6 trên GitHub</a></p>
+<p align="center"><a href="https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.8">Bản phát hành v2.4.8 trên GitHub</a></p>
 
 | Nền tảng | Tải xuống |
 | --- | --- |
-| **Windows** | **[Tải EXE](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-windows-setup.exe)** |
-| **macOS**<br><sub>Apple silicon và Intel</sub> | **[Tải DMG](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-macos-universal.dmg)** |
-| **Android / Android TV** | **[Tải APK](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-android.apk)** |
-| **iOS / iPadOS** | [Liên kết App Store trong ghi chú phát hành](https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.6) |
-| **Linux**<br><sub>x86_64</sub> | **[Tải AppImage](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.6/com.sakuracat.app-2.4.6-linux-amd64.AppImage)** |
+| **Windows** | **[Tải EXE](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-windows-setup.exe)** |
+| **macOS**<br><sub>Apple silicon và Intel</sub> | **[Tải DMG](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-macos-universal.dmg)** |
+| **Android / Android TV** | **[Tải APK](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-android.apk)** |
+| **iOS / iPadOS** | [Liên kết App Store trong ghi chú phát hành](https://github.com/MeowSecTechLLC/sakuracat/releases/tag/v2.4.8) |
+| **Linux**<br><sub>x86_64</sub> | **[Tải AppImage](https://github.com/MeowSecTechLLC/sakuracat/releases/download/v2.4.8/com.sakuracat.app-2.4.8-linux-amd64.AppImage)** |
 
 <details>
 <summary><strong>Hướng dẫn cài đặt</strong></summary>
